@@ -1,0 +1,9 @@
+zip -e -P help! XPWorkshop-Implementation2 XPWorkshop-Implementation2.st
+zip -e -P help3! XPWorkshop-Implementation3 XPWorkshop-Implementation3.st
+zip -e -P secondTest XPWorkshop-Implementation4 XPWorkshop-Implementation4.st
+zip -e -P solution2 XPWorkshop-Implementation5 XPWorkshop-Implementation5.st
+zip -e -P theDifficultOne XPWorkshop-Implementation6 XPWorkshop-Implementation6.st
+zip -e -P interesting XPWorkshop-Implementation7 XPWorkshop-Implementation7.st
+zip -e -P theEasyOne XPWorkshop-Implementation8 XPWorkshop-Implementation8.st
+zip -e -P simple XPWorkshop-Implementation9 XPWorkshop-Implementation9.st
+zip -e -P theEnd XPWorkshop-Implementation10 XPWorkshop-Implementation10.st
